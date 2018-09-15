@@ -1,7 +1,7 @@
 # blue--fantasic
 <html>
 <head>
-<title>bright</title>
+  <title>bright</title>
 </head>
 <body>
 <h1> september is really sunny</h1>
